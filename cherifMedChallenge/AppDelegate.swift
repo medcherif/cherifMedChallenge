@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  cherifMedChallenge
-//
-//  Created by Sam on 27/11/2018.
-//  Copyright © 2018 AppartooChallenge. All rights reserved.
-//
-
 import UIKit
 import CoreData
 
